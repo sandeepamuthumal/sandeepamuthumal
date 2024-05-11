@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Muthumal</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A passionate software developer | Undergraduate at University of Sri Jayawardenepura</h3>
 
 - 🌱 I’m currently learning **MERN**
 
